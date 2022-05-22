@@ -1,5 +1,5 @@
 # FlakeOS
-Based on:                 Debian 11\
+Based on:                 Ubuntu 22.04 LTS\
 State of Development:     Alpha\
 Code Name:                Mont Blanc
 
