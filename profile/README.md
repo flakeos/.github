@@ -6,5 +6,10 @@ Code Name:                Mont Blanc
 FlakeOS use as code name the names of the mountains.
 
 ### Technical Info
-Base System:              Ubuntu 22.04 LTS\
+Base System:              Ubuntu 18.04 LTS\
 Desktop Environment:      Mate
+
+## Compability
+RAM: 2.0 GB
+
+*same system requirement of Ubuntu 18.04 LTS*
