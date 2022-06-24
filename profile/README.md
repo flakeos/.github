@@ -7,7 +7,7 @@ FlakeOS use as code name the names of the mountains.
 
 ### Technical Info
 Base System:              Ubuntu 18.04 LTS\
-Desktop Environment:      Cinnamon (Menu Bar) and Mate (Dock)
+Desktop Environment:      Xfce (Lite edition), KDE Plasma and GNOME
 
 ## Compability
 RAM: 2.0 GB
