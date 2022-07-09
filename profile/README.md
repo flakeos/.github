@@ -7,7 +7,7 @@ Last Version:             0.2
 FlakeOS use as code name the names of the mountains.
 
 ### Technical Info
-Base System:              Debian 11
+Base System:              Debian 11\
 Desktop Environment:      Cinnamon
 
 ### Develop Progress
