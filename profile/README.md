@@ -1,6 +1,6 @@
 # FlakeOS
 State of Development:     Alpha\
-Code Name:                Mont Blanc
+Code Name:                Mont Blanc\
 Last Version:             0.2
 
 ### About Code Name
